@@ -1,0 +1,6 @@
+- Hello I am samiksha Pandey
+- 🌱 I’m currently learning full stack development, have completed C and C++
+- with ongoing Java with DSA course
+- am pursuing Btech IT from Medicaps university
+- I have uploaded my first HTML project
+- 
